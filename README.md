@@ -18,13 +18,12 @@ Doble clic en `index.html`. Nada más — no hay build ni servidor.
 
 ## Qué falta completar
 
-1. **LinkedIn** — en `index.html`, buscá `TU-USUARIO` y poné la URL real de tu perfil.
-2. **CV en PDF** — guardá el archivo como `assets/cv.pdf` y descomentá el botón
+1. **CV en PDF** — guardá el archivo como `assets/cv.pdf` y descomentá el botón
    "Descargar CV" en la sección del hero (está marcado con un comentario).
-3. **Links a repos** — las tarjetas de proyectos privados muestran "Repositorio privado".
+2. **Links a repos** — las tarjetas de proyectos privados muestran "Repositorio privado".
    Cuando hagas público alguno, reemplazá ese `<span class="link link--muted">` por el
    `<a class="link">` que quedó comentado arriba, con la URL del repo.
-4. **Números del hero** — los `data-count` de la sección `.hero__stats` (12 / 4 / 3) son
+3. **Números del hero** — los `data-count` de la sección `.hero__stats` (12 / 4 / 3) son
    una estimación: ajustalos a lo que quieras declarar.
 
 ## Publicar en GitHub Pages
